@@ -23,3 +23,7 @@ This project is a Sticky Footer Layout built using HTML and CSS only. It ensures
   <li>Implement a dark/light mode toggle for styling options</li>
   <li>Enhance design with animations or gradient effects</li>
 </ul>
+<br>
+<footer>
+    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &bull; <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
