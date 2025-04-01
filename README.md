@@ -12,3 +12,8 @@ This project is a Sticky Footer Layout built using HTML and CSS only. It ensures
   <li>Uses modern CSS techniques like flexbox</li>
   <li>Clean and accessible design</li>
 </ul>
+<p><strong>TECHNOLOGIES USED</strong></p>
+<ul>
+  <li>HTML – Structure for page content and footer</li>
+  <li>CSS – Styling and layout positioning</li>
+</ul>
