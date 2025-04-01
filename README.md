@@ -17,3 +17,9 @@ This project is a Sticky Footer Layout built using HTML and CSS only. It ensures
   <li>HTML – Structure for page content and footer</li>
   <li>CSS – Styling and layout positioning</li>
 </ul>
+<p><strong>FUTURE IMPROVEMENTS</strong></p>
+<ul>
+  <li>Add variations such as a fixed or reveal footer</li>
+  <li>Implement a dark/light mode toggle for styling options</li>
+  <li>Enhance design with animations or gradient effects</li>
+</ul>
