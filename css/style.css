@@ -20,7 +20,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #4a90e2;
+    background-color: #6b3cbd;
     color: white;
     padding: 1rem;
 }
@@ -51,7 +51,7 @@ nav ul li a:hover {
 
 /* Main content styles */
 main {
-    flex: 1; /* This is the key to making the footer stick to the bottom */
+    flex: 1;
     padding: 2rem;
     max-width: 1200px;
     margin: 0 auto;
