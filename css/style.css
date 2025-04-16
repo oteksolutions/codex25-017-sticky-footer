@@ -1,9 +1,24 @@
 /* Global Styles */
+:root {
+    --primary-color: #6b3cbd;
+    --primary-light: #8e5fd4;
+    --primary-dark: #5930a0;
+    --secondary-color: #4a90e2;
+    --text-color: #333;
+    --text-light: #767676;
+    --footer-bg: #2c3e50;
+    --footer-text: #bdc3c7;
+    --link-hover: #007bff;
+    --link-active: #FF4D00;
+    --white: #ffffff;
+    --transition: all 0.3s ease;
+    --shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
 }
 
 html, body {
