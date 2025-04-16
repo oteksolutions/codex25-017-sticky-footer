@@ -84,6 +84,19 @@
 	            <p>Web Project by <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank" rel="noopener noreferrer" title="Web Designer &amp; Developer">Ken Ekweme</a> &bull; <a href="https://www.oteksolutions.net" target="_blank" rel="noopener noreferrer" title="Designed and Developed by OTek Solutions">OTek Solutions</a> <a href="/humans.txt" class="humans-link" target="_blank" title="Credits"><strong>&#x24D8;</strong></a></p>
 	        </div>
     	</footer>
-        
+
+	<script>
+        // Mobile menu toggle
+        document.querySelector('.mobile-nav-toggle').addEventListener('click', function() {
+            const primaryNav = document.getElementById('primary-navigation');
+            const expanded = this.getAttribute('aria-expanded') === 'true';
+            
+            this.setAttribute('aria-expanded', !expanded);
+            primaryNav.classList.toggle('nav-active');
+            
+            // Toggle burger menu animation
+            document.querySelector('.burger').classList.toggle('toggle');
+        });
+    </script>
 </body>
 </html>
